@@ -34,3 +34,4 @@ Speakers
 - Buncha ac power cables
 - hdmi cables
 - ethernet cables
+- usb type-B to usb type-A
