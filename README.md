@@ -4,3 +4,5 @@
 ## [DJ database](https://airtable.com/appo8roFjvzTsMAP9/shrHStSzPoavUmDcI)
 
 ## [Gear list](gear_list.md)
+
+this is fine ig
